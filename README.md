@@ -1,5 +1,5 @@
 # Team Name: SZMMKR - SuperTech
-# Project Title: (Pending) Online commercial realestate map for restaurants 
+# Project Title: Restaurant Automation for Small-Medium Sized Businesses
 # Project Repository: https://github.com/flyingtreemonkey/SuperTech
 
 Team Members: 
@@ -10,8 +10,5 @@ Team Members:
   Riley Hunter : EECS - rhunter
   Mathew Nishimoto : EECS - mnishimo
   
-Potential Ideas:
-  Zillow type website for commercial real estate having data for profitability indicators
-  Cryptocurrency project - galactic credits
-  Media Sharing platform constrained to local area
-  Portfolio application centered on Magic the Gathering cards as a financial product
+
+*Last Updated by Zach Gherman*

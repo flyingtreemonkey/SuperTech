@@ -20,6 +20,7 @@ This would necessitate changing several lines that relate to file operations and
  LOG-IN
  
  To log into the application as a manager, provide an appropriate manager ID and password then click "Manager Log-in".
+ 
  To log into the application as an employee, provide an appropriate employee ID and password then click "Employee Log-in".
  
  MANAGERS

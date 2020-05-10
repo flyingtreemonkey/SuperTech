@@ -27,7 +27,7 @@ This would necessitate changing several lines that relate to file operations and
  
  To create a new menu, click the "Add Menu" button and provide an appropriate name (e.g. Lunch, Dinner, etc.). This will create a new button which can subsequently be clicked to access the menu. 
  
- IF the menu is empty, click the "Add Food Item" and provide an appropriate name for the food item. When the new food item button is clicked, you can modify what ingredients will be used to create the food item.
+ IF the menu is empty, click the "Add Food Item" and provide an appropriate name for the food item. When the new food item button is clicked, you can modify what ingredients will be used to create the food item. Managers may still add food items to the menu even if there are already food item buttons listed.
  
  DO NOT FORGET to click the button "Commit To Database" to save the food item(s), and their ingredients to the menu.
  
